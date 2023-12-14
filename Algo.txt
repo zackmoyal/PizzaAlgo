@@ -1,2 +1,8 @@
 Decide which business to order from
 Decide which type of pizza to order
+Call the restaurant
+Wait on the pizza
+Tip the driver
+Eat the pizza
+Put leftovers in the fridge
+Throw away pizza box
